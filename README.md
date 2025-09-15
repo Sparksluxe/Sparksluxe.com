@@ -1,2 +1,17 @@
 # Sparksluxe.com
 Sparksluxe demo e-commerce 
+{
+"name": "sparksluxe-full-demo",
+"version": "1.0.0",
+"private": true,
+"scripts": {
+"start": "react-scripts start",
+"build": "react-scripts build"
+},
+"dependencies": {
+"react": "18.2.0",
+"react-dom": "18.2.0",
+"react-scripts": "5.0.1",
+"react-router-dom": "6.14.1"
+}
+}
